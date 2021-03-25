@@ -1,7 +1,7 @@
-# Cool 
+# Fake App
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 ## Description
-cool stuff
+Fake App Stuff
 ## Table of contents
 - [Installation](#installation)
 - [Usage](#usage)
@@ -12,14 +12,14 @@ cool stuff
 ## Installation
 undefined
 ## Usage
-cool
+fakers and haters
 ## License
 This project uses the MIT license.
 ## Contributing
-cool people
+fakes
 ## Tests
-cool
+carefully
 ## Questions
-[Your GitHub](http://github.com/jr cool)
+[Your GitHub](http://github.com/fake@github)
 Your Email:
-<cool@cool.com>
+<fake@gmail.com>
